@@ -1,0 +1,27 @@
+*{
+
+
+}
+.container{
+box-sizing: border-box;
+background: rgb(140, 202, 204);
+border-radius: 100px;
+align-items: center;
+align-self: center;
+position: relative;
+box-shadow: 0 0 24px #222;
+max-width: 500px;
+margin: 300px auto;
+padding: 32px 24px;
+display: flex;
+}
+body{
+background-color: rgb(141, 219, 219);
+
+}
+.login-btn{
+box-sizing: border-box;
+background: whitesmoke;
+border-radius: 60px;
+
+}
